@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://run.mocky.io/v3/your-netflix-logo-style-url" width="200" alt="Quiz Logo" />
-</p>
 
 <h1 align="center">🍿 QUIZ STREAMING: Tales Edition</h1>
 
